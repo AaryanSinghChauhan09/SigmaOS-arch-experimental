@@ -3,7 +3,7 @@ name = "SigmaOS-arch-experimental"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-experimental component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
