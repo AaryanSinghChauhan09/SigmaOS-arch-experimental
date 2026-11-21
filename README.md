@@ -1,4 +1,4 @@
-# SigmaOS-arch-experimental
+# SigmaOS-experimental
 
 GitHub description is a placeholder; component scope remains unclassified.
 
